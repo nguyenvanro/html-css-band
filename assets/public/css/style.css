@@ -124,7 +124,7 @@ html {
 
 #slider {
     /* min-height: 500px; */
-    background: url(/assets/public/img/slider/chicago.jpg) top center / cover no-repeat;
+    background: url('/assets/public/img/slider/chicago.jpg') top center / cover no-repeat;
     margin-top: 46.5px;
     padding-top: 50%;
 }
